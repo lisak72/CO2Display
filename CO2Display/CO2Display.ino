@@ -8,7 +8,7 @@ void setup() {
   // put your setup code here, to run once:
 
 display.setSegments(4, 4, 0);
-display.setBrightness(7, true); //brightness 0-7, on
+display.setBrightness(4, true); //brightness 0-7, on
 display.clear();
 }
 
